@@ -1,5 +1,7 @@
 # The LightSabers Guild Kata
 
+[![Join the chat at https://gitter.im/rhwy/cleancode-lightsabersguild](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rhwy/cleancode-lightsabersguild?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ## What's about ?
 Hey, I'm the boss of LightSabers guild, a company specialized in selling real
