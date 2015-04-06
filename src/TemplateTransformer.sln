@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateTransformer", "TemplateTransformer\TemplateTransformer.csproj", "{04DF262D-BADC-4290-8F7E-200CA9FB0228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateTransformer.Tests", "TemplateTransformer.Tests\TemplateTransformer.Tests.csproj", "{B9CC1702-1D11-4733-855B-B3E22188F521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04DF262D-BADC-4290-8F7E-200CA9FB0228}.Debug|x86.ActiveCfg = Debug|x86
+		{04DF262D-BADC-4290-8F7E-200CA9FB0228}.Debug|x86.Build.0 = Debug|x86
+		{04DF262D-BADC-4290-8F7E-200CA9FB0228}.Release|x86.ActiveCfg = Release|x86
+		{04DF262D-BADC-4290-8F7E-200CA9FB0228}.Release|x86.Build.0 = Release|x86
+		{B9CC1702-1D11-4733-855B-B3E22188F521}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B9CC1702-1D11-4733-855B-B3E22188F521}.Debug|x86.Build.0 = Debug|Any CPU
+		{B9CC1702-1D11-4733-855B-B3E22188F521}.Release|x86.ActiveCfg = Release|Any CPU
+		{B9CC1702-1D11-4733-855B-B3E22188F521}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
